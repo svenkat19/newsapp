@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.news-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Optional: Adjust as needed */
+  margin-left: 100px;
+}
